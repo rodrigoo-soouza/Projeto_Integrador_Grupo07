@@ -11,6 +11,68 @@ Esse repósitorio faz parte do Projeto Integrador: Desenvolvimento de Sistemas O
 
 # **Visão Geral da Proposta**
 
+## **Levantamento de Requisitos**
+
+- Analisar e entender os requisitos funcionais e não funcionais de cada caso de uso.
+
+- A fase de Levantamento de Requisitos é crucial para entender as necessidades dos atores principais, como administradores, usuários e alunos.
+
+- O caso de uso requer uma compreensão clara dos requisitos para diferentes tipos de cadastros (Pessoa Física, Pessoa Jurídica, Professor, Fornecedor).
+
+##	**Projeto e Arquitetura**
+
+- Desenhar a estrutura do sistema para suportar os casos de uso.
+
+- Projetar a interface do usuário para facilitar a interação.
+
+- O "Lançar Notas" por exemplo destaca a importância de projetar uma área de lançamento de notas eficiente.
+
+## **Implementação**
+
+- Desenvolver os módulos específicos para cada caso de uso.
+
+- Implementar a lógica de negócios para gerenciar cadastros, autenticação, matrículas, e lançamento de notas.
+
+- Realizar testes unitários para garantir a funcionalidade correta de cada componente.
+
+## **Testes**
+
+- Realizar testes de sistema para garantir a integração adequada entre os diferentes casos de uso.
+
+- Executar testes de aceitação com os usuários finais para validar a usabilidade.
+
+- No Caso de Uso "Consultar Notas", é vital testar alternativas, como notas não liberadas ou inacessíveis devido a problemas técnicos.
+
+## **Implementação de Alterações e Correções**
+
+- Incorporar feedback dos testes para fazer melhorias.
+
+- Corrigir bugs ou problemas identificados durante os testes.
+
+- Manter uma abordagem iterativa para aprimorar continuamente o sistema.
+
+## **Documentação**
+
+- Confecção de documentação abrangente para os usuários finais e desenvolvedores.
+
+- Documentar os procedimentos de uso, requisitos e a arquitetura do sistema.
+
+## **Implantação**
+
+- Realizar a implantação do sistema em um ambiente de produção.
+
+- Garantir uma transição suave do ambiente de desenvolvimento para produção.
+
+- Monitorar o desempenho e corrigir quaisquer problemas que possam surgir.
+
+## **Manutenção e Suporte**
+
+- Fornece suporte contínuo para resolver problemas pós-implantação.
+
+- Realizar atualizações conforme necessário para atender a novos requisitos.
+
+- Monitorar o desempenho e a segurança do sistema de maneira contínua.
+
 # **Contextualização e Motivação**
 No cenário atual da educação, a tecnologia desempenha um papel crucial na facilitação do aprendizado e na gestão acadêmica. Diante desse contexto, propomos o desenvolvimento de um site para uma universidade, visando otimizar a interação entre professores e alunos, além de proporcionar uma experiência educacional mais integrada e eficiente.
 
