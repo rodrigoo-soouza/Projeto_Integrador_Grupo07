@@ -53,4 +53,4 @@ Ao criar essa plataforma, buscamos promover a eficiência operacional, melhorar 
 
 Ao alcançar esses objetivos, aspiramos criar um ambiente virtual que não apenas atenda às demandas atuais da comunidade acadêmica, mas que também sirva como modelo para futuros avanços na educação digital no Brasil.
 
-# Planejamento para desenvolvimento da solução proposta: ciclo de vida, premissas, requisitos, planejamento
+# **Planejamento para desenvolvimento da solução proposta: ciclo de vida, premissas, requisitos, planejamento**
