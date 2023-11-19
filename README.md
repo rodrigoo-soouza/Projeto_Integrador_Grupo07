@@ -1,6 +1,9 @@
 # **Projeto Integrador Grupo 07**
 Esse repósitorio faz parte do Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 
+# **Diagrama de Caso**
+
+![Diagrama de Caso](https://github.com/rodrigoo-soouza/Projeto_Integrador_Grupo07/blob/main/Diagrama%20de%20Caso.png)
 
 # **Visão Geral da Proposta**
 
