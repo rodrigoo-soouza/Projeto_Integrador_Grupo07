@@ -222,27 +222,29 @@ Podem alterar dados de fornecedor.
 
 ## **Geral com Ligações**
 
-![Geral](https://github.com/rodrigoo-soouza/Projeto_Integrador_Grupo07/blob/main/Diagrama%20de%20Classe.png)
-
+![Geral](https://github.com/rodrigoo-soouza/Projeto_Integrador_Grupo07/blob/main/Geral.png)
 
 ## **Pessoa**
 
-
+![Pessoa](https://github.com/rodrigoo-soouza/Projeto_Integrador_Grupo07/blob/main/Pessoa.png)
 
 ## **Pessoa Jurídica**
 
-
+![Pessoa-Jurídica](https://github.com/rodrigoo-soouza/Projeto_Integrador_Grupo07/blob/main/Pessoa-Jur%C3%ADdica.png)
 
 ## **Aluno**
 
-
+![Aluno](https://github.com/rodrigoo-soouza/Projeto_Integrador_Grupo07/blob/main/Aluno.png)
 
 ## **Funcionário**
 
-
+![Funcionario](https://github.com/rodrigoo-soouza/Projeto_Integrador_Grupo07/blob/main/Funcion%C3%A1rio.png)
 
 ## **Professor**
 
-
+![Professor](https://github.com/rodrigoo-soouza/Projeto_Integrador_Grupo07/blob/main/Professor.png)
 
 ## **Fornecedor**
+
+![Fornecedor](https://github.com/rodrigoo-soouza/Projeto_Integrador_Grupo07/blob/main/Fornecedor.png)
+
