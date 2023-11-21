@@ -128,7 +128,7 @@ Ao criar essa plataforma, buscamos promover a eficiência operacional, melhorar 
 Ao alcançar esses objetivos, aspiramos criar um ambiente virtual que não apenas atenda às demandas atuais da comunidade acadêmica, mas que também sirva como modelo para futuros avanços na educação digital no Brasil.
 
 # **Planejamento para Desenvolvimento da Dolução Proposta:** 
-## **Ciclo de vida**
+
 ## **Premissas**
 
 ### Escopo do Projeto:
@@ -216,7 +216,12 @@ Podem alterar dados de fornecedor.
 - Em situações de inserção de notas inválidas, o sistema informa o professor sobre o erro, solicitando a correção antes do registro das notas.
 
 ## **Requisitos**
+
+
+
 ## **Planejamento**
+
+
 
 # **Prototipação Low Fidelity**
 
