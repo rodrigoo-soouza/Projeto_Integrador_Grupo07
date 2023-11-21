@@ -1,5 +1,5 @@
 # **Projeto Integrador Grupo 07**
-
+# **Sistema de Gerenciamento de uma Instituição de Ensino**
 Esse repósitorio faz parte do Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 
 # **Diagrama de Classe**
