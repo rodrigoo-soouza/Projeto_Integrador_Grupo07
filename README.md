@@ -271,9 +271,143 @@ Usuários padrão com acesso limitado às funcionalidades do sistema, muitas vez
 
 - **Compatibilidade:** Funcionamento do sistema em diferentes dispositivos e navegadores para oferecer uma experiência consistente independentemente do dispositivo utilizado.
 
-## **Planejamento**
+## **Plano de Projeto - Sistema de Gestão Universitária**
 
+### Etapa de Inicialização:
 
+#### **Definição do Projeto:**
+
+- Realizar uma reunião de kickoff para alinhar as expectativas do projeto com a equipe e os stakeholders.
+
+- Estabelecer objetivos claros e metas mensuráveis.
+
+#### **Seleção da Equipe:**
+
+- Identificar e alocar membros da equipe para funções específicas no projeto.
+
+- Designar líderes de equipe, incluindo líder de desenvolvimento, líder de testes, líder de documentação, etc.
+
+#### **Ambiente de Desenvolvimento:**
+
+- Configurar o ambiente de desenvolvimento, incluindo servidores, bancos de dados, ambientes de teste, ferramentas de desenvolvimento e controle de versão
+
+### Etapa de Levantamento de Requisitos:
+
+#### **Análise de Requisitos:**
+
+- Conduzir reuniões com stakeholders para capturar requisitos detalhados.
+
+- Documentar requisitos funcionais e não funcionais.
+
+#### **Priorização de Requisitos:**
+
+- Classificar os requisitos com base na importância e no impacto no projeto.
+
+- Identificar requisitos críticos e de alto valor.
+
+### Etapa de Projeto e Arquitetura:
+
+#### **Design da Interface do Usuário:**
+
+- Desenhar a interface do usuário com base nos requisitos levantados.
+
+- Criar protótipos e fluxos de interação.
+
+#### **Arquitetura do Sistema:**
+
+- Projetar a estrutura geral do sistema, incluindo a organização de classes, componentes e módulos.
+
+- Identificar padrões de design apropriados.
+
+### Etapa de Implementação:
+
+#### **Desenvolvimento de Módulos:**
+
+- Implementar os módulos específicos para cada caso de uso, como cadastro de pessoas, autenticação, matrículas, lançamento de notas, etc.
+
+- Realizar testes unitários para garantir a funcionalidade correta.
+
+### Etapa de Testes:
+
+#### **Testes de Sistema:**
+
+- Realizar testes de sistema para garantir a integração adequada entre os diferentes módulos e casos de uso.
+
+- Identificar e corrigir eventuais problemas de integração.
+
+#### **Testes de Aceitação do Usuário:**
+
+- Envolver os usuários finais para realizar testes de aceitação, validando a usabilidade e a aderência aos requisitos.
+
+### Etapa de Implementação de Alterações e Correções:
+
+#### **Incorporação de Feedback:**
+
+- Coletar feedback dos testes e dos usuários finais para fazer melhorias.
+
+- Priorizar e implementar as alterações necessárias.
+
+#### **Correção de Bugs:**
+
+- Identificar e corrigir bugs ou problemas identificados durante os testes.
+
+### Etapa de Documentação:
+
+#### **Documentação do Sistema:**
+
+- Criar documentação abrangente para os usuários finais e desenvolvedores.
+
+- Incluir manuais de uso, descrição dos requisitos, arquitetura do sistema, diagramas UML, entre outros.
+
+### Etapa de Implantação:
+
+#### **Implantação do Sistema:**
+
+- Realizar a implantação do sistema em um ambiente de produção ou pré-produção, dependendo da estratégia de lançamento.
+
+- Garantir uma transição suave do ambiente de desenvolvimento para produção.
+
+### Etapa de Manutenção e Suporte:
+
+#### **Suporte Contínuo:**
+
+- Fornecer suporte contínuo para resolver problemas pós-implantação.
+
+- Estabelecer um mecanismo de atendimento ao cliente.
+
+#### **Atualizações e Melhorias:**
+
+- Realizar atualizações conforme necessário para atender a novos requisitos ou corrigir problemas.
+
+- Manter o sistema atualizado com as mudanças tecnológicas.
+
+### Ciclos de Desenvolvimento:
+
+O projeto seguirá um ciclo de desenvolvimento ágil com sprints de 2 semanas cada. Cada sprint incluirá as seguintes atividades:
+
+#### **Planejamento de Sprint:**
+
+- Revisão dos requisitos e priorização das tarefas.
+
+- Alocação de recursos e definição de metas.
+
+#### **Desenvolvimento:**
+
+- Codificação, design de interface e testes unitários.
+
+- Integração contínua para garantir a qualidade do código.
+
+#### **Revisão de Sprint:**
+
+- Revisão do progresso e ajustes conforme necessário.
+
+- Avaliação da conformidade com os requisitos e objetivos da sprint.
+
+#### **Demonstração:**
+
+- Apresentação das funcionalidades desenvolvidas aos stakeholders.
+
+- Coleta de feedback para direcionar o desenvolvimento futuro.
 
 # **Prototipação Low Fidelity**
 
