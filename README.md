@@ -217,7 +217,59 @@ Podem alterar dados de fornecedor.
 
 ## **Requisitos**
 
+### **Requisitos Funcionais Gerais:**
 
+Ações que o sistema será capaz de executar.
+
+- Gerenciamento de Usuários: Permitir que o administrador crie, edite, inative, ative, exclua e gerencie matérias no sistema, atribuindo diferentes níveis de acesso e permissões.
+
+- Controle de Acesso: Capacidade de configurar e controlar permissões de acesso para diferentes partes do sistema, garantindo que certos recursos estejam disponíveis apenas para usuários autorizados.
+
+- Monitoramento e Auditoria: Recursos para rastrear atividades dos usuários, registros de acesso, e capacidade de visualizar logs para monitorar o uso do sistema.
+
+### Requisitos Não Funcionais Gerais:
+
+Relacionadas ao desempenho do sistema, como tempo de resposta, capacidade de processamento, entre outros.
+
+- **Desempenho:** O sistema deve ser capaz de lidar com um grande número de usuários simultâneos e operar de maneira eficiente e ágil, mesmo em momentos de pico de atividade.
+
+- **Disponibilidade:** O sistema deve estar disponível e acessível sempre que necessário, com um tempo de inatividade mínimo para manutenção ou atualizações.
+
+- **Escalabilidade:** O sistema deve crescer e acomodar um aumento no número de usuários, recursos e volume de dados sem comprometer o desempenho.
+
+### Requisitos Funcionais Para Usuários Externos:
+
+Com os acessos mínimos necessários para utilizar o sistema. Recomenda-se o acesso por uma Professor ou Fornecedor Estes são um dos requisitos desse tipo de usuário: 
+
+- **Autenticação e Login:** Permitir que o usuário faça login de forma segura, com credenciais válidas, para acessar o sistema.
+
+- **Gestão de Perfil:** Capacidade de criar, editar e atualizar informações pessoais no perfil do usuário, como nome, endereço, foto, entre outros
+
+- **Gestão de Conteúdo:** Capacidade de adicionar, editar e excluir conteúdos.
+
+### Requisitos Não Funcionais Para Usuários Externos:
+
+- **Segurança:** Proteção adequada das informações do usuário por meio de práticas de segurança, como criptografia de dados, proteção contra acesso não autorizado, entre outras
+
+### Requisitos Funcionais Para Usuários Padrão:
+
+Usuários padrão com acesso limitado às funcionalidades do sistema, muitas vezes restrito a ações básicas necessárias para uso regular, como visualização de conteúdo e interação básica. Esse tipo de usuário tem o acesso mais limitado do sistema. Estes são os requisitos para este tipo de usuário:
+
+- **Autenticação e Login:** Capacidade de acessar o sistema por meio de credenciais válidas, como nome de usuário e senha.
+
+- **Navegação Intuitiva:** Interface amigável que permita a fácil localização e acesso às funcionalidades necessárias do sistema.
+
+- **Realização de Tarefas Básicas:** Execução de ações fundamentais dentro do sistema, como envio de mensagens, gestão de perfil, busca de informações, entre outros.
+
+### Requisitos Não Funcionais Para Usuários Padrão:
+
+- **Usabilidade:** Interface intuitiva que torne a navegação e interação com o sistema fácil e acessível para usuários de diferentes níveis de habilidade.
+
+- **Desempenho:** Tempo de resposta r e carregamento eficiente das páginas para garantir uma experiência sem atrasos ou lentidão.
+
+- **Segurança:** Proteção adequada das informações pessoais e dados sensíveis do usuário, com medidas de segurança como criptografia e controle de acesso.
+
+- **Compatibilidade:** Funcionamento do sistema em diferentes dispositivos e navegadores para oferecer uma experiência consistente independentemente do dispositivo utilizado.
 
 ## **Planejamento**
 
